@@ -1,3 +1,5 @@
+Importa no terminal do .py a conexãocom BD 
+
 def mysql_connection(host, user, passwd, database=None):
     connection = connect(
         host = host,
